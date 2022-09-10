@@ -10,8 +10,7 @@ body{
     background: linear-gradient(90deg, rgba(41,82,156,1) 0%,  rgb(14, 51, 107) 100%);
     height: 100vh;
     transition: 0.5s;
-    height: 100vh;
-    transition: 0.5s;
+    
 }
 
 .left{
@@ -134,13 +133,9 @@ label #sidebar_check_btn:hover{
 
 .center_section{
     position:fixed;
-    margin-top: 80px;
-    padding-left: 270px;
+    top: 50px;
+    left: 270px;
     transition: 0.8s;
-    width: 100%;
-    
-    
-    
 
 }
 
